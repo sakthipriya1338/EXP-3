@@ -41,7 +41,8 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="982" height="524" alt="BEEE EX3-1" src="https://github.com/user-attachments/assets/0ec369b6-cb05-427e-a4a5-3bd9bcebdf4e" />
+<img width="1020" height="545" alt="Screenshot 2025-12-17 113856" src="https://github.com/user-attachments/assets/957f4e9c-000d-43e6-83b3-20a417bee920" />
+
 
 Tabulation:1
 
@@ -54,7 +55,8 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 
-<img width="1162" height="559" alt="BEEE EX3-2" src="https://github.com/user-attachments/assets/139106d3-77c1-4950-af37-fc2981584bc6" />
+<img width="1003" height="462" alt="Screenshot 2025-12-17 113911" src="https://github.com/user-attachments/assets/60619065-0f22-48a6-ad43-39cbb7a8341e" />
+
 
 Tabulation:2
 
