@@ -61,10 +61,10 @@ Cross connection: CIRCUIT DIAGRAM:
 Tabulation:2
 
 |:-----:|:-----:|:------------:|:-------:|
- |1|ON|ON|OFF|
- |2|ON|OFF|ON|
- |3|OFF|ON|ON|
- |4|OFF|OFF|OFF|
+|1|ON|ON|OFF|
+|2|ON|OFF|ON|
+|3|OFF|ON|ON|
+|4|OFF|OFF|OFF|
 
 RESULT:
 Thus the staircase wiring is connected and tested.
