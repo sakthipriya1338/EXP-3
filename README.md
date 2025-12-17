@@ -40,11 +40,29 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+<img width="982" height="524" alt="BEEE EX3-1" src="https://github.com/user-attachments/assets/0ec369b6-cb05-427e-a4a5-3bd9bcebdf4e" />
+
 Tabulation:1
+
+|NODE|S1|S2|LAMP|
+ |:-----:|:-----:|:------------:|:-------:|
+ |1|ON|ON|ON|
+ |2|ON|OFF|OFF|
+ |3|OFF|ON|OFF|
+ |4|OFF|OFF|ON|
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+<img width="1162" height="559" alt="BEEE EX3-2" src="https://github.com/user-attachments/assets/139106d3-77c1-4950-af37-fc2981584bc6" />
+
 Tabulation:2
+
+|:-----:|:-----:|:------------:|:-------:|
+ |1|ON|ON|OFF|
+ |2|ON|OFF|ON|
+ |3|OFF|ON|ON|
+ |4|OFF|OFF|OFF|
 
 RESULT:
 Thus the staircase wiring is connected and tested.
