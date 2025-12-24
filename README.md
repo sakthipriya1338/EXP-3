@@ -43,6 +43,11 @@ Direct connection: CIRCUIT DIAGRAM:
 
 <img width="1020" height="545" alt="Screenshot 2025-12-17 113856" src="https://github.com/user-attachments/assets/957f4e9c-000d-43e6-83b3-20a417bee920" />
 
+| COMPONENTS | PROTEUS | SPECIFICATION |
+| :--- | :--- | :--- |
+| AC supply | Vsine | Amplitude = 230V |
+| Two-way switch | SPDT | Frequency = 50 Hz |
+| Lamp | Animated | 230V |
 
 Tabulation:1
 
